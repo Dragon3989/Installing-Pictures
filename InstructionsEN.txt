@@ -1,0 +1,12 @@
+Firstly, go to where DevPro is installed, If you do NOT know where this is just right click on however you open devpro and click
+"Open file location" 
+Now you want to click the address bar and copy it. To do this just click up the top then highlight all of it and click copy
+(Or control + C)( Link to Screenshot https://gyazo.com/9d20c6b1f291b6c220a1070fb339f8a6 )
+Next, right click on the Zip Folder and when it asks where you would like to extract it just press control V so it pastes the devpro
+location. You can also right click on the pic folder and copy and paste it manually in that folder where devpro.exe is. 
+If after doing this and it doesn't work make sure you go into your "Pics" Folder and check if there is another folder called "Pics" inside.
+Devpro loads images from /pics not /pics/pics.
+To fix this simply copy the pic folder inside of that Pics folder and go back to where devpro.exe is and paste the folder there. 
+If you still have problems or need help with other technical problems for DevPro please join our discord
+https://discord.me/ygopro-devpro and check in #devpro-Faq. If there is nothing there, please come to #DevPro-Support 
+and type your problem(s) and/or direct message a staff member.

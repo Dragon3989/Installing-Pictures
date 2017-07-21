@@ -1,0 +1,14 @@
+Primero, tienes que ir a donde tienes instalado el DevPro, si no sabe dónde es sólo haga click derecho en el icono del
+devpro y haga click en "Abrir ubicación del archivo" Ahora vamos a dar click en la barra de direcciones y copiarla.
+Para hacer esto simplemente haga click en la parte superior y luego resalte todo y haga click derecho, copiar
+(o "Control + C") (Ejemplo  es esta captura de pantalla https://gyazo.com/9d20c6b1f291b6c220a1070fb339f8a6
+A continuación, haga click con el botón derecho del mouse en la carpeta Zip y cuando se le pregunte dónde desea extraerlo,
+simplemente pulse Click derecho y Pegar (o Control + V) para que pegue la ubicación devpro. También puede hacer click
+derecho en la carpeta pic y copiar y pegar manualmente en esa carpeta donde devpro.exe es.
+Si después de hacer esto no funciona asegúrese de ir a su "Pics" carpeta y comprobar si hay otra carpeta llamada "Pics"
+en su interior. Devpro carga imágenes de \pics no en \pics\pics. Para arreglar esto simplemente copie la carpeta Pics
+dentro de esa carpeta Pics y vuelva a donde esta el archivo devpro.exe y pegue la carpeta allí. Si todavía tiene problemas
+o necesita ayuda con otros problemas técnicos para DevPro,
+únase a nuestro discord https://discord.me/ygopro-devpro y selecciona #devpro-Faq. 
+Si no hay nada allí, por favor
+Vaya a #DevPro-Support y escriba su problema y/o mensaje directo a un miembro del personal.
