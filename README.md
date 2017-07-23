@@ -6,6 +6,6 @@ SS Clear_Mind EN grammar/proof reader
 
 TheMagicianX ES Translation 
 
-DE W.I.P
+DE Babaroi Translation. Did change parts.
 
 FR W.I.P
