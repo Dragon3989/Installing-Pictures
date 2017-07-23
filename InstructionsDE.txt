@@ -1,0 +1,10 @@
+Gehe zunächst in deinen DevPro Ordner. Falls du nicht weißt wo sich dieser befindet, öffne dein DevPro, öffne dort den Tab "Datei Manager"
+und wähle die Option "Ordner öffnen". (Hier ein Bild dazu http://prntscr.com/fyha77) Nun solltest du dich im Deckordner von DevPro befinden.
+Klicke oben in der Ordnerleiste nun auf den Ordner der sich vor "deck" befindet mit Linksklick, danach klicke auf ihn mit Rechtsklick und
+wähle "Adresse kopieren". (Hier heißt der Ordner Beispielsweise "YGOPro DevPro" http://prntscr.com/fyhctz ) Nun klicke die "pics.zip"
+die du gedownloadet hast mit Rechtsklick an und wähle "Extract Files...". Im Fenster das sich nun öffnet ersetzt du die Adresse durch die
+Adresse vom DevPro Ordner, die du einfach einfügen kannst (Bild dazu http://prntscr.com/fyhh0n ) 
+Falls die Bilder noch immer nicht zu sehen sind öffne erneut den DevPro Ordner und sieh nach ob sich im "pics" Ordner ein weiterer "pics"
+Ordner befindet. Falls dies der Fall sein sollte kopiere den Ordner einfach in den DevPro Ordner und ersetze den alten.
+Sollte das Problem trotzdem nicht behoben sein, wende dich auf dem DevPro Discord https://discord.gg/ZeaRZMj oder im DevPro Chat
+an einen Mod oder Helper oder schreibe dein Problem in den Support Kanal. 
